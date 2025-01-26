@@ -1,0 +1,2 @@
+class RokInstance:
+    pass
